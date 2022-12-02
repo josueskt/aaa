@@ -19,6 +19,7 @@ class persona :
 
 p2 = persona("diego",30,"M")
 
+
 print(p2.nombre)
 print(p2.edad)
 print(p2.genero)

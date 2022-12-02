@@ -8,7 +8,7 @@ class persona:
         print(self.nombre)
 x = persona ("alex ", "flore")
 x.imprimir()
-"""
+
 class estudiante(persona):
     pass
 
@@ -23,7 +23,7 @@ class student(persona):
         self.edad = edad
         
 estudiante1 = student("asdasd","asdasd",30)
-student.imprimir()
+estudiante1.imprimir()
 
 #metodos 
 class Studen( persona):
@@ -41,8 +41,8 @@ class Studen( persona):
         
         
 ps = Studen("hola" , "adasd", 30 , "asdasd")
-Studen.bienvenido()
+ps.bienvenido()
      
 
         
- """
+ 
